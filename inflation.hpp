@@ -1,0 +1,10 @@
+//
+// Created by Diya Shenoy on 2019-10-02.
+//
+
+#ifndef FINANCECALCULATOR_INFLATION_HPP
+#define FINANCECALCULATOR_INFLATION_HPP
+
+void inflation();
+
+#endif //FINANCECALCULATOR_INFLATION_HPP
